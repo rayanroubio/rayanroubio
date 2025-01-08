@@ -20,12 +20,12 @@ I’m a **student developer** passionate about learning and creating impactful t
 <!-- Stats -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lol/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/RebeloSebasstien/count.svg?"  />
 </div>
 
 <div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakcode21&theme=dracula&hide_border=true" width="55%" ></br>
-<img src="https://github-readme-stats.vercel.app/api?username=sebastien&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width="50%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RebeloSebasstien&theme=dracula&hide_border=true" width="55%" ></br>
+<img src="https://github-readme-stats.vercel.app/api?username=RebeloSebasstien&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width="50%" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lol&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width= "46%"></br>
 </div>
 
