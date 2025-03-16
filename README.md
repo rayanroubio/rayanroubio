@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
-<h1 align="center">Hello there! 👋 I'm Rebelo Sebastien</h1>
+<h1 align="center">Hello there! 👋 I'm Rayan Roubio</h1>
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif?cid=790b7611mzzquogwaywmjct771qpcqqyyt4ghgvir9xtp089&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -20,12 +20,12 @@ I’m a **student developer** passionate about learning and creating impactful t
 <!-- Stats -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RebeloSebasstien/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/rayanroubio/count.svg?"  />
 </div>
 
 <div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RebeloSebasstien&theme=dracula&hide_border=true" width="55%" ></br>
-<img src="https://github-readme-stats.vercel.app/api?username=RebeloSebasstien&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width="50%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanroubio&theme=dracula&hide_border=true" width="55%" ></br>
+<img src="https://github-readme-stats.vercel.app/api?username=rayanroubio&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width="50%" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lol&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width= "46%"></br>
 </div>
 
@@ -87,7 +87,7 @@ I’m a **student developer** passionate about learning and creating impactful t
 ## 🌐 Connect with Me 🍬
 
 
-  <a href="rebelo.sebastien1@gmail.com" target="_blank">
+  <a href="rayanroubio1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
